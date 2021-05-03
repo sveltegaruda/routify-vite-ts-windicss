@@ -1,0 +1,17 @@
+.container {
+  border: solid 1px blue;
+  background-color: rgba(0, 119, 255, 0.1);
+  border-radius: 0.25rem;
+  padding: 0.75rem;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  color: blue;
+}
+
+.description {
+  margin-top: 1.5rem;
+}

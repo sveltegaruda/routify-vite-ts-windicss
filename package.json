@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "dev": "routify -c dev:vite ",
+    "build": "svelte-check && routify -b && vite build",
+    "dev:vite": "vite",
+    "serve": "vite preview",
+    "validate": "svelte-check"
+  },
+  "devDependencies": {
+    "@roxi/routify": "^2.15.1",
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.7",
+    "@tsconfig/svelte": "^1.0.10",
+    "html-minifier": "^4.0.0",
+    "svelte": "^3.37.0",
+    "svelte-check": "^1.5.1",
+    "svelte-preprocess": "^4.7.2",
+    "vite": "^2.2.3",
+    "vite-plugin-windicss": "^0.15.10",
+    "windicss": "^2.5.14"
+  }
+}
