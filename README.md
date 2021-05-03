@@ -23,7 +23,7 @@ npm i && npm run dev
 
 ## Demo
 
-See [routify-vite-ts-windicss.vercel.app](https://routify-vite-ts-windicss.vercel.app/).
+See [routify-vite-ts-windicss.netlify.app](https://routify-vite-ts-windicss.netlify.app/).
 
 <hr>
 
